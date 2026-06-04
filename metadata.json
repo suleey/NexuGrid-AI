@@ -1,0 +1,6 @@
+{
+  "name": "AI EV Charging & Route Optimization",
+  "description": "An AI-powered EV Charging Station Finder, Route Optimizer, and Predictor, featuring an interactive live map, real-time availability analytics, and complete AWS production architecture specifications for a hackathon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
